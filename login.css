@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(184, 198, 211);
+    display: flex;
+    column-gap: 20px;
+    
+}
+.main{
+    width: 300px;
+    height: 300px;
+    margin-left: 35%;
+    background-color: white;
+    margin-top: 100px;
+    border-radius: 5px;
+    padding: 10px;
+    align-items: center;
+    
+  
+}
+.login{
+    text-align: center;
+}
+input{
+    width: 290px;
+    height: 20px;
+    font-weight: 100;
+}
+#lb{
+    background-color: rgb(66, 104, 202);
+    height: 25px;
+    width:100%;
+}
